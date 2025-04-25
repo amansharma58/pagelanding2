@@ -276,3 +276,7 @@ footer{
 p{
   font-size: 17px;
 }
+.getintouch{
+  background-image: url('aerial-view-container-cargo-ship-sea.jpg');
+  background-size: cover;
+}
